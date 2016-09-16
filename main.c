@@ -73,7 +73,4 @@ int main(void) {
             OCR0B++;
         }
     }
-    
-
-
 }
